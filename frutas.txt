@@ -6,6 +6,5 @@ B:
 Banana
 
 M:
-Maça
 Melancia
 Morango

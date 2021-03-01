@@ -8,3 +8,7 @@ Banana
 M:
 Melancia
 Morango
+Maça
+Melão
+
+São frutas gostosas!

@@ -1,7 +1,6 @@
 A:
 Amora
 Abacaxi
-Amexa
 
 B:
 Banana

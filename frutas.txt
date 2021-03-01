@@ -1,0 +1,12 @@
+A:
+Amora
+Abacaxi
+Amexa
+
+B:
+Banana
+
+M:
+Maça
+Melancia
+Morango
